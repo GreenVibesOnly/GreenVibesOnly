@@ -87,28 +87,33 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
   </a>
   <a href="https://aiogram.dev/" target="_blank">
-    <img src="https://aiogram.dev/img/logo.c95d892f.png" title="GitHub" alt="Aiogram" width="40" height="40"/>
+    <img src="https://aiogram.dev/img/logo.c95d892f.png" title="Aiogram" alt="aiogram" width="40" height="40"/>
   </a>
   <a href="https://docs.pydantic.dev/" target="_blank">
-    <img src="https://docs.pydantic.dev/latest/logo-white.svg" title="GitHub" alt="Pydantic" width="40" height="40"/>
+    <img src="https://docs.pydantic.dev/latest/logo-white.svg" title="Pydantic" alt="pydantic" width="40" height="40"/>
   </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
+  <a href="https://python-poetry.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" alt="poetry" width="40" height="40"/>
   </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHubActions" alt="githubactions" width="40" height="40"/>
   </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://docs.pytest.org/en/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="pytest" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="ubuntu" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>
   </a>
 </div>
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 <div id="stat" align="center">
   <h2>My stat</h2>
