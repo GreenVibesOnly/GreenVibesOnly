@@ -3,7 +3,6 @@
   <h3>Backend Developer from Moscow</h3><br>
 </div>
 
-Больше информации в моём резюме:
 <div align="center">
   <p align="left">
     💻 Сreating backend services in a wide stack. Specialize in Python and algorithms, have DevOps and QA engineer skills.
@@ -26,17 +25,17 @@
 </div>
 
 <div align="center">
-    <h1> 📱 Social links:</h1>
+    <h1> 📱 Social links</h1>
   <a href="https://t.me/TeterchevaKseniya" target="_blank">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/tg_logo.png" width="45">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/tg_logo.png" width="45" alt="Telegram">
   </a>ㅤ
   <a href="https://www.linkedin.com/in/greenvibesonly" target="_blank">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/li_logo.png" width="50">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/li_logo.png" width="50" alt="LinkedIn">
   </a>
 </div>
 
 <div align="center">
-  <h1> :hammer_and_wrench: Languages and Tools:</h1>
+  <h1> :hammer_and_wrench: Languages and Tools</h1>
 </div>
 
 <div align="center">
@@ -92,10 +91,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
   </a>
 </div>
-  ㅤ
+
+
+<div id="stat" align="center">
+  <h1> My stat</h1>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GreenVibesOnly&theme=github_dark" alt="Stat"/>
 </div>
 
 <!--
+Больше информации в моём резюме:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
