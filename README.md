@@ -29,13 +29,13 @@
 <div align="center">
     <h2> Social links</h2>
   <a href="https://t.me/TeterchevaKseniya" target="_blank">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/tg_logo.png" width="45" alt="Telegram">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/tg_logo.png" alt="Telegram" width="35">
   </a>
   <a href="https://www.linkedin.com/in/greenvibesonly" target="_blank">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/li_logo.png" width="50" alt="LinkedIn">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/li_logo.png" alt="LinkedIn" width="40">
   </a>
   <a href="mailto:kseniya@tetercheva.ru">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/ym_logo.png" width="55" alt="YaMail">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/ym_logo.png" alt="YaMail" width="40">
   </a>
 </div>
 
@@ -56,8 +56,10 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" title="FastApi" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://learning.postman.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
+  <a href="https://python-telegram-bot.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/python-telegram-bot/logos/refs/heads/master/logo/png/ptb-logo_240.png" title="Python-telegram-bot" alt="python-telegram-bot" width="40" height="40"/>
+  <a href="https://aiogram.dev/" target="_blank">
+    <img src="https://aiogram.dev/img/logo.c95d892f.png" title="Aiogram" alt="aiogram" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/docs.html" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="sqlite" width="40" height="40"/>
@@ -68,15 +70,30 @@
   <a href="https://docs.sqlalchemy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SqlAlchemy" alt="sqlalchemy" width="40" height="40"/>
   </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://docs.pydantic.dev/" target="_blank">
+    <img src="https://docs.pydantic.dev/latest/logo-white.svg" title="Pydantic" alt="pydantic" width="40" height="40"/>
+  </a>
+  <a href="https://python-poetry.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" alt="poetry" width="40" height="40"/>
+  </a>
   <a href="https://nginx.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>
   </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
+  <a href="https://gunicorn.org/" target="_blank">
+    <img src="https://gunicorn.org/images/title.png" title="Gunicorn" alt="gunicorn" width="40" height="15"/>
   </a>
-  <a href="https://www.kernel.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
+</div>
+  
+<div align="center">
   </a>
+  <a href="https://learning.postman.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHubActions" alt="githubactions" width="40" height="40"/>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
   </a>
@@ -86,23 +103,9 @@
   <a href="https://docs.github.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://aiogram.dev/" target="_blank">
-    <img src="https://aiogram.dev/img/logo.c95d892f.png" title="Aiogram" alt="aiogram" width="40" height="40"/>
-  </a>
-  <a href="https://docs.pydantic.dev/" target="_blank">
-    <img src="https://docs.pydantic.dev/latest/logo-white.svg" title="Pydantic" alt="pydantic" width="40" height="40"/>
-  </a>
-  <a href="https://python-poetry.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" alt="poetry" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHubActions" alt="githubactions" width="40" height="40"/>
   </a>
   <a href="https://html.spec.whatwg.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://docs.pytest.org/en/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="pytest" width="40" height="40"/>
@@ -112,6 +115,12 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.kernel.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
   </a>
 </div>
 
