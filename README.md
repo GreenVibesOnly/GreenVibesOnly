@@ -29,13 +29,13 @@
 <div align="center">
     <h2> Social links</h2>
   <a href="https://t.me/TeterchevaKseniya" target="_blank">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/tg_logo.png" alt="Telegram" width="35">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/tg_logo.png" title="Telegram" alt="telegram" width="35">
   </a>
   <a href="https://www.linkedin.com/in/greenvibesonly" target="_blank">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/li_logo.png" alt="LinkedIn" width="40">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/li_logo.png" title="LinkedIn" alt="linkedin" width="40">
   </a>
   <a href="mailto:kseniya@tetercheva.ru">
-    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/ym_logo.png" alt="YaMail" width="40">
+    <img src="https://github.com/GreenVibesOnly/GreenVibesOnly/blob/main/mail_logo.png" title="YaMail" alt="yamail" width="40">
   </a>
 </div>
 
