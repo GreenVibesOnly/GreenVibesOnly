@@ -124,9 +124,11 @@
   </a>
 </div>
 
+<!-- 
 <div id="stat" align="center">
   <h2>My stat</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GreenVibesOnly&theme=github_dark" alt="Stat"/>
 </div>
+-->
 
 
